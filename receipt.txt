@@ -1,0 +1,10 @@
+Receipt
+-------
+tomato: $30
+thyme: $4.5
+garlic: $7.5
+rice: $10
+onions: $4
+fish: $9.99
+-------
+Total: $65.99
