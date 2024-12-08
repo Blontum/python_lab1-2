@@ -1,0 +1,4 @@
+Instance_name,Instance_type,Image_id,State
+Bo1,t2.micro,ami-0453ec754f44f9a4a,running
+Bo2,t2.micro,ami-0453ec754f44f9a4a,running
+Bo3,t2.micro,ami-0453ec754f44f9a4a,running
